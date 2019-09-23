@@ -1,5 +1,7 @@
 # FatBTC websocket Api 示例
 
+Api Docs in English: https://github.com/fatbtc/fatbtc-api-websocket/blob/master/README_en.md
+
 ## 注意事项
 
 - 1.Url
